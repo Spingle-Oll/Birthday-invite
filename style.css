@@ -1,0 +1,56 @@
+body{
+    background-image: url("https://bogatyr.club/uploads/posts/2023-03/1679650157_bogatyr-club-p-chernii-fon-s-tochkami-krasivo-54.jpg") ;
+    background-repeat: no-repeat;
+}
+.mainText{
+    color:#FF8C00;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.content{
+    background-color:#696969;
+    padding: 1em;
+    font-family: 'Dosis', sans-serif;
+    margin: 1em;
+}
+.card{
+    border: 5px dashed #FF8C00;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    background-image: url("https://kira-scrap.ru/KATALOG/ZIMA/16/01112022_konfeti-12.png");
+    background-repeat: repeat;
+}
+.image{
+    border-radius: 50%;
+    border: 4px solid #FF8C00;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 5%;
+}
+.list{
+    text-align: left;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: larger;
+}
+.list li{
+    text-decoration: underline;
+}
+.list a{
+    text-decoration: none;
+}
+.ready_link{
+    margin-left: -4%;
+    font-family: 'Lobster', sans-serif;
+    color:rgb(143, 18, 18);
+}
+.block{
+    background-color: rgb(80, 68, 158);
+    border-radius: 20px;
+    border: 3px rgb(59, 152, 57)solid;
+    border-left: 3px #FF8C00 dotted;
+    border-top: 3px #FF8C00 solid;
+    border-right: 3px rgb(59, 152, 57) dotted;
+    width: 20%;
+    margin-left: 50%;
+}
